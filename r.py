@@ -9,7 +9,7 @@ import time
 logging.basicConfig(filename="bot.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Your Telegram bot token
-bot = telebot.TeleBot('7619017682:AAEMrixQMT4UCzmREBm5nRCbiaJ7_dTuNEg')
+bot = telebot.TeleBot('7758619230:AAEY6G0uIanl_Hpn0_YegCJI7DE8h-M44cs')
 
 # Admin ID
 ADMINS = {6437994839}  # Add more admin IDs if needed
